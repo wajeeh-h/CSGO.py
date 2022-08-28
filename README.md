@@ -16,3 +16,7 @@ Status: DETECTED (kind of)
 
 ![GUI1](https://i.ibb.co/G5wk3s6/image.png)
 ![GUI2](https://i.ibb.co/sVRDM4j/image-1-1.png)
+
+# TODO
+- Add more features (ie. Aimbot)
+- Refactor code (the Settings class in particular)

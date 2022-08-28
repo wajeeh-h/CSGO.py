@@ -13,4 +13,4 @@ Status: DETECTED (kind of)
 - Skin Changer
 
 ![GUI1](https://i.ibb.co/G5wk3s6/image.png)
-![GUI2](https://i.ibb.co/hyKCvmz/image.png)
+![GUI2](https://i.ibb.co/sVRDM4j/image-1-1.png)

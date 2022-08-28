@@ -1,5 +1,6 @@
 # CSGO.py
-An IMGUI based cheat for CSGO.
+Pasteable external base for CSGO (with IMGUI).
+-Offsets are automatic.
 
 Status: DETECTED (kind of)
 - External Glow is likely detected, the rest of the cheat is presumably fine.

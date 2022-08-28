@@ -11,3 +11,6 @@ Status: DETECTED (kind of)
 - TriggerBot
 - Auto Bunnyhop
 - Skin Changer
+
+![GUI1](https://i.ibb.co/G5wk3s6/image.png)
+![GUI2](https://i.ibb.co/hyKCvmz/image.png)

@@ -1,6 +1,7 @@
 # CSGO.py
 Pasteable external base for CSGO (with IMGUI).
--Offsets are automatic.
+
+Offsets are automaticcally updated :).
 
 Status: DETECTED (kind of)
 - External Glow is likely detected, the rest of the cheat is presumably fine.

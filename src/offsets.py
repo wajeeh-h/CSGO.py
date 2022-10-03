@@ -24,7 +24,10 @@ def load_offsets():
     path_to_dir = os.path.join(path_to_dir, "hazedumper")
     assert os.path.isdir(path_to_dir)
     os.chdir(path_to_dir)
-    subprocess.Popen(["hazedumper.exe"])
+    try:
+        subprocess.Popen(["hazedumper.exe"])
+    except Exception:
+        pass
 
 
 path_to_dir: str = os.path.dirname(__file__)
